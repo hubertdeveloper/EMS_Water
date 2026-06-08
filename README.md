@@ -40,7 +40,6 @@ na bazie **PostgreSQL**, z symulatorem 18 liczników, archiwizacją, agregacjami
 - 🔎 **Moduł analiz** — filtrowanie po lokalizacji i okresie, wykresy porównawcze
 - 🖥️ **Tabele „pełny ekran"** jednym kliknięciem
 - 🔐 **Bezpieczeństwo** — role, Security Levels, Security Zones, użytkownicy z bazy
-- 🚨 **Alarmy** — brak danych, przekroczenie progów, anomalie / wycieki
 
 ---
 
