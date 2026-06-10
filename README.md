@@ -34,7 +34,7 @@ na bazie **PostgreSQL**, z symulatorem 18 liczników, archiwizacją, agregacjami
 ## ✨ Funkcje
 
 - 💧 **18 liczników wody** (M01–M18) w **6 lokalizacjach** — dane na żywo z symulatora
-- 🗄️ **Pełny model danych** w PostgreSQL: konfiguracja, pomiary, agregacje, alarmy
+- 🗄️ **Pełny model danych** w PostgreSQL: konfiguracja, pomiary, agregacje
 - ⏱️ **Archiwizacja** pomiarów co 10 s + **agregacje** dzienne / tygodniowe / miesięczne / roczne
 - 📊 **Dashboardy i raporty** — karty KPI, wykresy trendów, zestawienia per licznik i lokalizacja
 - 🔎 **Moduł analiz** — filtrowanie po lokalizacji i okresie, wykresy porównawcze
