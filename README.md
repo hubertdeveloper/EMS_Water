@@ -5,7 +5,7 @@
 ### System Zarządzania Wodą · *Energy Management System*
 
 Kompletna aplikacja SCADA/EMS dla zużycia wody — zbudowana w **Ignition 8.3 (Perspective)**
-na bazie **PostgreSQL**, z symulatorem 18 liczników, archiwizacją, agregacjami, alarmami i analizą.
+na bazie **PostgreSQL**, z symulatorem 18 liczników, archiwizacją, agregacjami i analizą.
 
 <br/>
 
